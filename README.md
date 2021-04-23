@@ -7,9 +7,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://cdn.rpaka.dev/useimage/scene-picks/demo.gif" />
-</div>
+![動作イメージ](https://cdn.rpaka.dev/useimage/scene-picks/demo.gif)
 
 ## 概要
 
